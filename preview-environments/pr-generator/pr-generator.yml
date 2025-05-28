@@ -12,7 +12,7 @@ spec:
         owner: ryan-collamore
         repo: gitops-cert-level-3-examples
         labels: 
-          - preview-app
+        - preview-app
       requeueAfterSeconds: 180
   template:
     metadata:
